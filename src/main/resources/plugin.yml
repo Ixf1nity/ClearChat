@@ -1,0 +1,6 @@
+name: ClearChatPlugin
+version: '${project.version}'
+main: me.infinity.infinitytags.ClearChatPlugin
+load: STARTUP
+authors: [ I6y ]
+description: advanced-tags plugin for spigot with many mindblowing features.

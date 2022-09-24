@@ -1,0 +1,6 @@
+SETTINGS:
+  CLEAR_CHAT_ON_JOIN: true # when a player joins the server, it deletes their chat.
+
+MESSAGES:
+  PLAYER_CHAT_CLEAR: "&cYour conversations has been cleared!"
+  GLOBAL_CHAT_CLEAR: "&Global conversations has been cleared!"
